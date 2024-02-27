@@ -1,0 +1,102 @@
+{
+    "Current Courses": [
+        "CSE1241",
+        "CSE2023",
+        "ECON2004",
+        "EE2031",
+        "MATH2055",
+        "MATH2059"
+    ],
+    "Execution Trace": [
+        "Current Semester Courses: ",
+        "CSE1241, CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, ",
+        "(0 NTE), (0 TE), (0 FTE), ",
+        "",
+        "The system didn't allow CSE2225 because student failed prerequisites -> CSE1242 ",
+        "",
+        "Current Courses: ",
+        "CSE1241, CSE2023, ECON2004, EE2031, MATH2055, MATH2059, "
+    ],
+    "AdvisorName": "SALİHA ÖVEN USTAALİOĞLU",
+    "SemesterNumber": 3,
+    "Past Courses": [
+        {
+            "intGrade": 54,
+            "LetterGrade": "DD",
+            "Course": "ATA121"
+        },
+        {
+            "intGrade": 97,
+            "LetterGrade": "AA",
+            "Course": "MBG1201"
+        },
+        {
+            "intGrade": 68,
+            "LetterGrade": "CC",
+            "Course": "CSE1200"
+        },
+        {
+            "intGrade": 35,
+            "LetterGrade": "FF",
+            "Course": "CSE1241"
+        },
+        {
+            "intGrade": 77,
+            "LetterGrade": "CB",
+            "Course": "MATH1001"
+        },
+        {
+            "intGrade": 77,
+            "LetterGrade": "CB",
+            "Course": "PHYS1101"
+        },
+        {
+            "intGrade": 80,
+            "LetterGrade": "BB",
+            "Course": "PHYS1103"
+        },
+        {
+            "intGrade": 89,
+            "LetterGrade": "BA",
+            "Course": "TRD121"
+        },
+        {
+            "intGrade": 95,
+            "LetterGrade": "AA",
+            "Course": "ATA122"
+        },
+        {
+            "intGrade": 96,
+            "LetterGrade": "AA",
+            "Course": "MATH1002"
+        },
+        {
+            "intGrade": 81,
+            "LetterGrade": "BB",
+            "Course": "MATH2256"
+        },
+        {
+            "intGrade": 81,
+            "LetterGrade": "BB",
+            "Course": "PHYS1102"
+        },
+        {
+            "intGrade": 83,
+            "LetterGrade": "BB",
+            "Course": "PHYS1104"
+        },
+        {
+            "intGrade": 93,
+            "LetterGrade": "AA",
+            "Course": "TRD122"
+        },
+        {
+            "intGrade": 51,
+            "LetterGrade": "DD",
+            "Course": "NTE1010"
+        }
+    ],
+    "StudentName": "İLKER UYGUR",
+    "CompletedCredits": 49,
+    "StudentId": "150120025"
+}

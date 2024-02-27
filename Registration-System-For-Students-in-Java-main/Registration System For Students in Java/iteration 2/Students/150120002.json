@@ -1,0 +1,109 @@
+{
+    "Current Courses": [
+        "ATA121",
+        "PHYS1103",
+        "TRD121",
+        "CSE2023",
+        "CSE2225",
+        "ECON2004",
+        "EE2031",
+        "MATH2055",
+        "MATH2059"
+    ],
+    "Execution Trace": [
+        "Current Semester Courses: ",
+        "ATA121, PHYS1103, TRD121, CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, ",
+        "(0 NTE), (0 TE), (0 FTE), ",
+        "",
+        "",
+        "Current Courses: ",
+        "ATA121, PHYS1103, TRD121, CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, "
+    ],
+    "AdvisorName": "GÖKHAN ALMACIOĞLU",
+    "SemesterNumber": 3,
+    "Past Courses": [
+        {
+            "intGrade": 12,
+            "LetterGrade": "FF",
+            "Course": "ATA121"
+        },
+        {
+            "intGrade": 78,
+            "LetterGrade": "CB",
+            "Course": "MBG1201"
+        },
+        {
+            "intGrade": 50,
+            "LetterGrade": "DD",
+            "Course": "CSE1200"
+        },
+        {
+            "intGrade": 55,
+            "LetterGrade": "DC",
+            "Course": "CSE1241"
+        },
+        {
+            "intGrade": 77,
+            "LetterGrade": "CB",
+            "Course": "MATH1001"
+        },
+        {
+            "intGrade": 72,
+            "LetterGrade": "CC",
+            "Course": "PHYS1101"
+        },
+        {
+            "intGrade": 12,
+            "LetterGrade": "FF",
+            "Course": "PHYS1103"
+        },
+        {
+            "intGrade": 23,
+            "LetterGrade": "FF",
+            "Course": "TRD121"
+        },
+        {
+            "intGrade": 74,
+            "LetterGrade": "CC",
+            "Course": "ATA122"
+        },
+        {
+            "intGrade": 67,
+            "LetterGrade": "CC",
+            "Course": "CSE1242"
+        },
+        {
+            "intGrade": 40,
+            "LetterGrade": "FF",
+            "Course": "MATH1002"
+        },
+        {
+            "intGrade": 56,
+            "LetterGrade": "DC",
+            "Course": "MATH2256"
+        },
+        {
+            "intGrade": 95,
+            "LetterGrade": "AA",
+            "Course": "PHYS1102"
+        },
+        {
+            "intGrade": 95,
+            "LetterGrade": "AA",
+            "Course": "PHYS1104"
+        },
+        {
+            "intGrade": 64,
+            "LetterGrade": "DC",
+            "Course": "TRD122"
+        },
+        {
+            "intGrade": 59,
+            "LetterGrade": "DC",
+            "Course": "NTE1013"
+        }
+    ],
+    "StudentName": "TUĞSEM BOZOĞLAN",
+    "CompletedCredits": 49,
+    "StudentId": "150120002"
+}

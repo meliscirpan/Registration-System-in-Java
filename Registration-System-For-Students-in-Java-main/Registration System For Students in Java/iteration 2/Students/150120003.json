@@ -1,0 +1,104 @@
+{
+    "Current Courses": [
+        "ATA121",
+        "CSE1241",
+        "PHYS1101",
+        "CSE2023",
+        "ECON2004",
+        "EE2031",
+        "MATH2055"
+    ],
+    "Execution Trace": [
+        "Current Semester Courses: ",
+        "ATA121, CSE1241, PHYS1101, CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, ",
+        "(0 NTE), (0 TE), (0 FTE), ",
+        "",
+        "The system didn't allow CSE2225 because student failed prerequisites -> CSE1242 ",
+        "Advisor didn't approve MATH2059 because of more than one hour collision with -> CSE1241 PHYS1101  in schedule",
+        "",
+        "Current Courses: ",
+        "ATA121, CSE1241, PHYS1101, CSE2023, ECON2004, EE2031, MATH2055, "
+    ],
+    "AdvisorName": "HACI MEHMET SARAL",
+    "SemesterNumber": 3,
+    "Past Courses": [
+        {
+            "intGrade": 11,
+            "LetterGrade": "FF",
+            "Course": "ATA121"
+        },
+        {
+            "intGrade": 72,
+            "LetterGrade": "CC",
+            "Course": "MBG1201"
+        },
+        {
+            "intGrade": 87,
+            "LetterGrade": "BA",
+            "Course": "CSE1200"
+        },
+        {
+            "intGrade": 27,
+            "LetterGrade": "FF",
+            "Course": "CSE1241"
+        },
+        {
+            "intGrade": 88,
+            "LetterGrade": "BA",
+            "Course": "MATH1001"
+        },
+        {
+            "intGrade": 2,
+            "LetterGrade": "FF",
+            "Course": "PHYS1101"
+        },
+        {
+            "intGrade": 93,
+            "LetterGrade": "AA",
+            "Course": "PHYS1103"
+        },
+        {
+            "intGrade": 56,
+            "LetterGrade": "DC",
+            "Course": "TRD121"
+        },
+        {
+            "intGrade": 7,
+            "LetterGrade": "FF",
+            "Course": "ATA122"
+        },
+        {
+            "intGrade": 57,
+            "LetterGrade": "DC",
+            "Course": "MATH1002"
+        },
+        {
+            "intGrade": 53,
+            "LetterGrade": "DD",
+            "Course": "MATH2256"
+        },
+        {
+            "intGrade": 79,
+            "LetterGrade": "CB",
+            "Course": "PHYS1102"
+        },
+        {
+            "intGrade": 58,
+            "LetterGrade": "DC",
+            "Course": "PHYS1104"
+        },
+        {
+            "intGrade": 88,
+            "LetterGrade": "BA",
+            "Course": "TRD122"
+        },
+        {
+            "intGrade": 60,
+            "LetterGrade": "DC",
+            "Course": "OB3043"
+        }
+    ],
+    "StudentName": "MEHMET MALÇOK",
+    "CompletedCredits": 41,
+    "StudentId": "150120003"
+}

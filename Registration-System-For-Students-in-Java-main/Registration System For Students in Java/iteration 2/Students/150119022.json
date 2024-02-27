@@ -1,0 +1,157 @@
+{
+    "Current Courses": [
+        "CSE1241",
+        "CSE3215"
+    ],
+    "Execution Trace": [
+        "Current Semester Courses: ",
+        "CSE1241, CSE2225, CSE3215, CSE3033, CSE3055, CSE3063, IE3081, ",
+        "(0 NTE), (0 TE), (0 FTE), ",
+        "",
+        "The system didn't allow CSE2225 because student failed prerequisites -> CSE1242 ",
+        "The system didn't allow CSE3033 because student failed prerequisites -> CSE2225 ",
+        "The system didn't allow CSE3055 because student failed prerequisites -> CSE2225 ",
+        "The system didn't allow CSE3063 because student failed prerequisites -> CSE1242 ",
+        "Advisor didn't approve IE3081 because of more than one hour collision with -> CSE1241 CSE1241  in schedule",
+        "",
+        "Current Courses: ",
+        "CSE1241, CSE3215, "
+    ],
+    "AdvisorName": "HACI MEHMET SARAL",
+    "SemesterNumber": 5,
+    "Past Courses": [
+        {
+            "intGrade": 94,
+            "LetterGrade": "AA",
+            "Course": "ATA121"
+        },
+        {
+            "intGrade": 62,
+            "LetterGrade": "DC",
+            "Course": "MBG1201"
+        },
+        {
+            "intGrade": 93,
+            "LetterGrade": "AA",
+            "Course": "CSE1200"
+        },
+        {
+            "intGrade": 10,
+            "LetterGrade": "FF",
+            "Course": "CSE1241"
+        },
+        {
+            "intGrade": 50,
+            "LetterGrade": "DD",
+            "Course": "MATH1001"
+        },
+        {
+            "intGrade": 54,
+            "LetterGrade": "DD",
+            "Course": "PHYS1101"
+        },
+        {
+            "intGrade": 65,
+            "LetterGrade": "CC",
+            "Course": "PHYS1103"
+        },
+        {
+            "intGrade": 85,
+            "LetterGrade": "BA",
+            "Course": "TRD121"
+        },
+        {
+            "intGrade": 51,
+            "LetterGrade": "DD",
+            "Course": "ATA122"
+        },
+        {
+            "intGrade": 60,
+            "LetterGrade": "DC",
+            "Course": "MATH1002"
+        },
+        {
+            "intGrade": 75,
+            "LetterGrade": "CB",
+            "Course": "MATH2256"
+        },
+        {
+            "intGrade": 61,
+            "LetterGrade": "DC",
+            "Course": "PHYS1102"
+        },
+        {
+            "intGrade": 59,
+            "LetterGrade": "DC",
+            "Course": "PHYS1104"
+        },
+        {
+            "intGrade": 64,
+            "LetterGrade": "DC",
+            "Course": "TRD122"
+        },
+        {
+            "intGrade": 72,
+            "LetterGrade": "CC",
+            "Course": "CAS2003"
+        },
+        {
+            "intGrade": 39,
+            "LetterGrade": "FF",
+            "Course": "CSE1241"
+        },
+        {
+            "intGrade": 75,
+            "LetterGrade": "CB",
+            "Course": "CSE2023"
+        },
+        {
+            "intGrade": 96,
+            "LetterGrade": "AA",
+            "Course": "ECON2004"
+        },
+        {
+            "intGrade": 98,
+            "LetterGrade": "AA",
+            "Course": "EE2031"
+        },
+        {
+            "intGrade": 97,
+            "LetterGrade": "AA",
+            "Course": "MATH2055"
+        },
+        {
+            "intGrade": 68,
+            "LetterGrade": "CC",
+            "Course": "MATH2059"
+        },
+        {
+            "intGrade": 77,
+            "LetterGrade": "CB",
+            "Course": "CSE2246"
+        },
+        {
+            "intGrade": 89,
+            "LetterGrade": "BA",
+            "Course": "CSE2138"
+        },
+        {
+            "intGrade": 85,
+            "LetterGrade": "BA",
+            "Course": "EE2032"
+        },
+        {
+            "intGrade": 82,
+            "LetterGrade": "BB",
+            "Course": "STAT2253"
+        },
+        {
+            "intGrade": 60,
+            "LetterGrade": "DC",
+            "Course": "CSE3000"
+        }
+    ],
+    "StudentName": "IRAZCA YALÇINKAYA",
+    "CompletedCredits": 105,
+    "StudentId": "150119022"
+}

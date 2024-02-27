@@ -1,0 +1,161 @@
+{
+    "Current Courses": [
+        "CSE2225",
+        "CSE3215",
+        "CSE3063",
+        "IE3081"
+    ],
+    "Execution Trace": [
+        "Current Semester Courses: ",
+        "CSE2225, CSE3215, CSE3033, CSE3055, CSE3063, IE3081, ",
+        "(0 NTE), (0 TE), (0 FTE), ",
+        "",
+        "The system didn't allow CSE3033 because student failed prerequisites -> CSE2225 ",
+        "The system didn't allow CSE3055 because student failed prerequisites -> CSE2225 ",
+        "",
+        "Current Courses: ",
+        "CSE2225, CSE3215, CSE3063, IE3081, "
+    ],
+    "AdvisorName": "MUSTAFA ULAŞ GİRAY",
+    "SemesterNumber": 5,
+    "Past Courses": [
+        {
+            "intGrade": 57,
+            "LetterGrade": "DC",
+            "Course": "ATA121"
+        },
+        {
+            "intGrade": 55,
+            "LetterGrade": "DC",
+            "Course": "MBG1201"
+        },
+        {
+            "intGrade": 60,
+            "LetterGrade": "DC",
+            "Course": "CSE1200"
+        },
+        {
+            "intGrade": 12,
+            "LetterGrade": "FF",
+            "Course": "CSE1241"
+        },
+        {
+            "intGrade": 65,
+            "LetterGrade": "CC",
+            "Course": "MATH1001"
+        },
+        {
+            "intGrade": 85,
+            "LetterGrade": "BA",
+            "Course": "PHYS1101"
+        },
+        {
+            "intGrade": 72,
+            "LetterGrade": "CC",
+            "Course": "PHYS1103"
+        },
+        {
+            "intGrade": 94,
+            "LetterGrade": "AA",
+            "Course": "TRD121"
+        },
+        {
+            "intGrade": 97,
+            "LetterGrade": "AA",
+            "Course": "ATA122"
+        },
+        {
+            "intGrade": 65,
+            "LetterGrade": "CC",
+            "Course": "MATH1002"
+        },
+        {
+            "intGrade": 50,
+            "LetterGrade": "DD",
+            "Course": "MATH2256"
+        },
+        {
+            "intGrade": 66,
+            "LetterGrade": "CC",
+            "Course": "PHYS1102"
+        },
+        {
+            "intGrade": 55,
+            "LetterGrade": "DC",
+            "Course": "PHYS1104"
+        },
+        {
+            "intGrade": 96,
+            "LetterGrade": "AA",
+            "Course": "TRD122"
+        },
+        {
+            "intGrade": 68,
+            "LetterGrade": "CC",
+            "Course": "NTE1010"
+        },
+        {
+            "intGrade": 52,
+            "LetterGrade": "DD",
+            "Course": "CSE1241"
+        },
+        {
+            "intGrade": 67,
+            "LetterGrade": "CC",
+            "Course": "CSE2023"
+        },
+        {
+            "intGrade": 64,
+            "LetterGrade": "DC",
+            "Course": "ECON2004"
+        },
+        {
+            "intGrade": 86,
+            "LetterGrade": "BA",
+            "Course": "EE2031"
+        },
+        {
+            "intGrade": 95,
+            "LetterGrade": "AA",
+            "Course": "MATH2055"
+        },
+        {
+            "intGrade": 50,
+            "LetterGrade": "DD",
+            "Course": "MATH2059"
+        },
+        {
+            "intGrade": 50,
+            "LetterGrade": "DD",
+            "Course": "CSE1242"
+        },
+        {
+            "intGrade": 68,
+            "LetterGrade": "CC",
+            "Course": "CSE2246"
+        },
+        {
+            "intGrade": 86,
+            "LetterGrade": "BA",
+            "Course": "CSE2138"
+        },
+        {
+            "intGrade": 64,
+            "LetterGrade": "DC",
+            "Course": "EE2032"
+        },
+        {
+            "intGrade": 78,
+            "LetterGrade": "CB",
+            "Course": "STAT2253"
+        },
+        {
+            "intGrade": 83,
+            "LetterGrade": "BB",
+            "Course": "CSE3000"
+        }
+    ],
+    "StudentName": "UFUK KARAOĞLU",
+    "CompletedCredits": 117,
+    "StudentId": "150119018"
+}

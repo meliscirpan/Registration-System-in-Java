@@ -1,0 +1,106 @@
+{
+    "Current Courses": [
+        "CSE2023",
+        "CSE2225",
+        "ECON2004",
+        "EE2031",
+        "MATH2055",
+        "MATH2059"
+    ],
+    "Execution Trace": [
+        "Current Semester Courses: ",
+        "CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, ",
+        "(0 NTE), (0 TE), (0 FTE), ",
+        "",
+        "",
+        "Current Courses: ",
+        "CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, "
+    ],
+    "AdvisorName": "ŞERAFETTİN KOCABAŞ",
+    "SemesterNumber": 3,
+    "Past Courses": [
+        {
+            "intGrade": 66,
+            "LetterGrade": "CC",
+            "Course": "ATA121"
+        },
+        {
+            "intGrade": 80,
+            "LetterGrade": "BB",
+            "Course": "MBG1201"
+        },
+        {
+            "intGrade": 63,
+            "LetterGrade": "DC",
+            "Course": "CSE1200"
+        },
+        {
+            "intGrade": 78,
+            "LetterGrade": "CB",
+            "Course": "CSE1241"
+        },
+        {
+            "intGrade": 62,
+            "LetterGrade": "DC",
+            "Course": "MATH1001"
+        },
+        {
+            "intGrade": 62,
+            "LetterGrade": "DC",
+            "Course": "PHYS1101"
+        },
+        {
+            "intGrade": 70,
+            "LetterGrade": "CC",
+            "Course": "PHYS1103"
+        },
+        {
+            "intGrade": 71,
+            "LetterGrade": "CC",
+            "Course": "TRD121"
+        },
+        {
+            "intGrade": 71,
+            "LetterGrade": "CC",
+            "Course": "ATA122"
+        },
+        {
+            "intGrade": 93,
+            "LetterGrade": "AA",
+            "Course": "CSE1242"
+        },
+        {
+            "intGrade": 92,
+            "LetterGrade": "AA",
+            "Course": "MATH1002"
+        },
+        {
+            "intGrade": 98,
+            "LetterGrade": "AA",
+            "Course": "MATH2256"
+        },
+        {
+            "intGrade": 77,
+            "LetterGrade": "CB",
+            "Course": "PHYS1102"
+        },
+        {
+            "intGrade": 77,
+            "LetterGrade": "CB",
+            "Course": "PHYS1104"
+        },
+        {
+            "intGrade": 93,
+            "LetterGrade": "AA",
+            "Course": "TRD122"
+        },
+        {
+            "intGrade": 91,
+            "LetterGrade": "AA",
+            "Course": "HR1013"
+        }
+    ],
+    "StudentName": "FULYA KAPLAN",
+    "CompletedCredits": 61,
+    "StudentId": "150120040"
+}

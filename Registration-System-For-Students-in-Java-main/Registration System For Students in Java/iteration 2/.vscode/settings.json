@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "json-20210307.jar",
+        "json-simple-1.1.jar"
+    ],
+    "java.dependency.packagePresentation": "hierarchical"
+}

@@ -1,0 +1,81 @@
+{
+    "Current Courses": [
+        "CSE1200",
+        "CSE1241",
+        "MATH1001",
+        "PHYS1101",
+        "PHYS1103",
+        "CSE2023",
+        "ECON2004",
+        "MATH2055"
+    ],
+    "Execution Trace": [
+        "Current Semester Courses: ",
+        "CSE1200, CSE1241, MATH1001, PHYS1101, PHYS1103, CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, ",
+        "(0 NTE), (0 TE), (0 FTE), ",
+        "",
+        "The system didn't allow CSE2225 because student failed prerequisites -> CSE1242 ",
+        "The system didn't allow EE2031 because student failed prerequisites -> PHYS1102 ",
+        "The system didn't allow MATH2059 because student failed prerequisites -> MATH1001 ",
+        "",
+        "Current Courses: ",
+        "CSE1200, CSE1241, MATH1001, PHYS1101, PHYS1103, CSE2023, ECON2004, MATH2055, "
+    ],
+    "AdvisorName": "OKAN KARSLI",
+    "SemesterNumber": 3,
+    "Past Courses": [
+        {
+            "intGrade": 52,
+            "LetterGrade": "DD",
+            "Course": "ATA121"
+        },
+        {
+            "intGrade": 92,
+            "LetterGrade": "AA",
+            "Course": "MBG1201"
+        },
+        {
+            "intGrade": 42,
+            "LetterGrade": "FF",
+            "Course": "CSE1200"
+        },
+        {
+            "intGrade": 47,
+            "LetterGrade": "FD",
+            "Course": "CSE1241"
+        },
+        {
+            "intGrade": 18,
+            "LetterGrade": "FF",
+            "Course": "MATH1001"
+        },
+        {
+            "intGrade": 17,
+            "LetterGrade": "FF",
+            "Course": "PHYS1101"
+        },
+        {
+            "intGrade": 41,
+            "LetterGrade": "FF",
+            "Course": "PHYS1103"
+        },
+        {
+            "intGrade": 86,
+            "LetterGrade": "BA",
+            "Course": "TRD121"
+        },
+        {
+            "intGrade": 66,
+            "LetterGrade": "CC",
+            "Course": "TRD122"
+        },
+        {
+            "intGrade": 18,
+            "LetterGrade": "FF",
+            "Course": "YDF1002"
+        }
+    ],
+    "StudentName": "MEHMET İKBAL SARIKAYA",
+    "CompletedCredits": 11,
+    "StudentId": "150120070"
+}

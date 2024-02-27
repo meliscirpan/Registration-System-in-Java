@@ -1,0 +1,108 @@
+{
+    "Current Courses": [
+        "ATA121",
+        "PHYS1101",
+        "CSE2023",
+        "CSE2225",
+        "ECON2004",
+        "EE2031",
+        "MATH2055",
+        "MATH2059"
+    ],
+    "Execution Trace": [
+        "Current Semester Courses: ",
+        "ATA121, PHYS1101, CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, ",
+        "(0 NTE), (0 TE), (0 FTE), ",
+        "",
+        "",
+        "Current Courses: ",
+        "ATA121, PHYS1101, CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, "
+    ],
+    "AdvisorName": "GÖKHAN ALMACIOĞLU",
+    "SemesterNumber": 3,
+    "Past Courses": [
+        {
+            "intGrade": 26,
+            "LetterGrade": "FF",
+            "Course": "ATA121"
+        },
+        {
+            "intGrade": 81,
+            "LetterGrade": "BB",
+            "Course": "MBG1201"
+        },
+        {
+            "intGrade": 76,
+            "LetterGrade": "CB",
+            "Course": "CSE1200"
+        },
+        {
+            "intGrade": 89,
+            "LetterGrade": "BA",
+            "Course": "CSE1241"
+        },
+        {
+            "intGrade": 100,
+            "LetterGrade": "AA",
+            "Course": "MATH1001"
+        },
+        {
+            "intGrade": 3,
+            "LetterGrade": "FF",
+            "Course": "PHYS1101"
+        },
+        {
+            "intGrade": 89,
+            "LetterGrade": "BA",
+            "Course": "PHYS1103"
+        },
+        {
+            "intGrade": 78,
+            "LetterGrade": "CB",
+            "Course": "TRD121"
+        },
+        {
+            "intGrade": 81,
+            "LetterGrade": "BB",
+            "Course": "ATA122"
+        },
+        {
+            "intGrade": 99,
+            "LetterGrade": "AA",
+            "Course": "CSE1242"
+        },
+        {
+            "intGrade": 81,
+            "LetterGrade": "BB",
+            "Course": "MATH1002"
+        },
+        {
+            "intGrade": 58,
+            "LetterGrade": "DC",
+            "Course": "MATH2256"
+        },
+        {
+            "intGrade": 91,
+            "LetterGrade": "AA",
+            "Course": "PHYS1102"
+        },
+        {
+            "intGrade": 50,
+            "LetterGrade": "DD",
+            "Course": "PHYS1104"
+        },
+        {
+            "intGrade": 76,
+            "LetterGrade": "CB",
+            "Course": "TRD122"
+        },
+        {
+            "intGrade": 74,
+            "LetterGrade": "CC",
+            "Course": "MAN1001"
+        }
+    ],
+    "StudentName": "BELGİN TALAN",
+    "CompletedCredits": 55,
+    "StudentId": "150120017"
+}

@@ -1,0 +1,106 @@
+{
+    "Current Courses": [
+        "CSE2023",
+        "CSE2225",
+        "ECON2004",
+        "EE2031",
+        "MATH2055",
+        "MATH2059"
+    ],
+    "Execution Trace": [
+        "Current Semester Courses: ",
+        "CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, ",
+        "(0 NTE), (0 TE), (0 FTE), ",
+        "",
+        "",
+        "Current Courses: ",
+        "CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, "
+    ],
+    "AdvisorName": "ÜZEYİR AKIN",
+    "SemesterNumber": 3,
+    "Past Courses": [
+        {
+            "intGrade": 75,
+            "LetterGrade": "CB",
+            "Course": "ATA121"
+        },
+        {
+            "intGrade": 91,
+            "LetterGrade": "AA",
+            "Course": "MBG1201"
+        },
+        {
+            "intGrade": 50,
+            "LetterGrade": "DD",
+            "Course": "CSE1200"
+        },
+        {
+            "intGrade": 58,
+            "LetterGrade": "DC",
+            "Course": "CSE1241"
+        },
+        {
+            "intGrade": 54,
+            "LetterGrade": "DD",
+            "Course": "MATH1001"
+        },
+        {
+            "intGrade": 52,
+            "LetterGrade": "DD",
+            "Course": "PHYS1101"
+        },
+        {
+            "intGrade": 88,
+            "LetterGrade": "BA",
+            "Course": "PHYS1103"
+        },
+        {
+            "intGrade": 59,
+            "LetterGrade": "DC",
+            "Course": "TRD121"
+        },
+        {
+            "intGrade": 57,
+            "LetterGrade": "DC",
+            "Course": "ATA122"
+        },
+        {
+            "intGrade": 85,
+            "LetterGrade": "BA",
+            "Course": "CSE1242"
+        },
+        {
+            "intGrade": 62,
+            "LetterGrade": "DC",
+            "Course": "MATH1002"
+        },
+        {
+            "intGrade": 53,
+            "LetterGrade": "DD",
+            "Course": "MATH2256"
+        },
+        {
+            "intGrade": 95,
+            "LetterGrade": "AA",
+            "Course": "PHYS1102"
+        },
+        {
+            "intGrade": 14,
+            "LetterGrade": "FF",
+            "Course": "PHYS1104"
+        },
+        {
+            "intGrade": 60,
+            "LetterGrade": "DC",
+            "Course": "TRD122"
+        },
+        {
+            "intGrade": 63,
+            "LetterGrade": "DC",
+            "Course": "NTE1014"
+        }
+    ],
+    "StudentName": "BAHRİ VURAL",
+    "CompletedCredits": 59,
+    "StudentId": "150120051"
+}

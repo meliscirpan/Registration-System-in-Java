@@ -1,0 +1,102 @@
+{
+    "Current Courses": [
+        "CSE1241",
+        "CSE2023",
+        "ECON2004",
+        "EE2031",
+        "MATH2055",
+        "MATH2059"
+    ],
+    "Execution Trace": [
+        "Current Semester Courses: ",
+        "CSE1241, CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, ",
+        "(0 NTE), (0 TE), (0 FTE), ",
+        "",
+        "The system didn't allow CSE2225 because student failed prerequisites -> CSE1242 ",
+        "",
+        "Current Courses: ",
+        "CSE1241, CSE2023, ECON2004, EE2031, MATH2055, MATH2059, "
+    ],
+    "AdvisorName": "SALİHA ÖVEN USTAALİOĞLU",
+    "SemesterNumber": 3,
+    "Past Courses": [
+        {
+            "intGrade": 79,
+            "LetterGrade": "CB",
+            "Course": "ATA121"
+        },
+        {
+            "intGrade": 83,
+            "LetterGrade": "BB",
+            "Course": "MBG1201"
+        },
+        {
+            "intGrade": 86,
+            "LetterGrade": "BA",
+            "Course": "CSE1200"
+        },
+        {
+            "intGrade": 13,
+            "LetterGrade": "FF",
+            "Course": "CSE1241"
+        },
+        {
+            "intGrade": 90,
+            "LetterGrade": "AA",
+            "Course": "MATH1001"
+        },
+        {
+            "intGrade": 94,
+            "LetterGrade": "AA",
+            "Course": "PHYS1101"
+        },
+        {
+            "intGrade": 57,
+            "LetterGrade": "DC",
+            "Course": "PHYS1103"
+        },
+        {
+            "intGrade": 89,
+            "LetterGrade": "BA",
+            "Course": "TRD121"
+        },
+        {
+            "intGrade": 74,
+            "LetterGrade": "CC",
+            "Course": "ATA122"
+        },
+        {
+            "intGrade": 70,
+            "LetterGrade": "CC",
+            "Course": "MATH1002"
+        },
+        {
+            "intGrade": 94,
+            "LetterGrade": "AA",
+            "Course": "MATH2256"
+        },
+        {
+            "intGrade": 91,
+            "LetterGrade": "AA",
+            "Course": "PHYS1102"
+        },
+        {
+            "intGrade": 79,
+            "LetterGrade": "CB",
+            "Course": "PHYS1104"
+        },
+        {
+            "intGrade": 89,
+            "LetterGrade": "BA",
+            "Course": "TRD122"
+        },
+        {
+            "intGrade": 91,
+            "LetterGrade": "AA",
+            "Course": "YDA1001"
+        }
+    ],
+    "StudentName": "EMRE ÖZDEMİR",
+    "CompletedCredits": 49,
+    "StudentId": "150120016"
+}

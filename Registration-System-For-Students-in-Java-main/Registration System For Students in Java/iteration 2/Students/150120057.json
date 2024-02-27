@@ -1,0 +1,105 @@
+{
+    "Current Courses": [
+        "CSE1241",
+        "MATH1001",
+        "PHYS1101",
+        "PHYS1103",
+        "CSE2023",
+        "ECON2004",
+        "MATH2055"
+    ],
+    "Execution Trace": [
+        "Current Semester Courses: ",
+        "CSE1241, MATH1001, PHYS1101, PHYS1103, CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, ",
+        "(0 NTE), (0 TE), (0 FTE), ",
+        "",
+        "The system didn't allow CSE2225 because student failed prerequisites -> CSE1242 ",
+        "The system didn't allow EE2031 because course section is full. (100)",
+        "The system didn't allow MATH2059 because student failed prerequisites -> MATH1001 ",
+        "",
+        "Current Courses: ",
+        "CSE1241, MATH1001, PHYS1101, PHYS1103, CSE2023, ECON2004, MATH2055, "
+    ],
+    "AdvisorName": "OKAN KARSLI",
+    "SemesterNumber": 3,
+    "Past Courses": [
+        {
+            "intGrade": 91,
+            "LetterGrade": "AA",
+            "Course": "ATA121"
+        },
+        {
+            "intGrade": 88,
+            "LetterGrade": "BA",
+            "Course": "MBG1201"
+        },
+        {
+            "intGrade": 53,
+            "LetterGrade": "DD",
+            "Course": "CSE1200"
+        },
+        {
+            "intGrade": 34,
+            "LetterGrade": "FF",
+            "Course": "CSE1241"
+        },
+        {
+            "intGrade": 11,
+            "LetterGrade": "FF",
+            "Course": "MATH1001"
+        },
+        {
+            "intGrade": 35,
+            "LetterGrade": "FF",
+            "Course": "PHYS1101"
+        },
+        {
+            "intGrade": 1,
+            "LetterGrade": "FF",
+            "Course": "PHYS1103"
+        },
+        {
+            "intGrade": 86,
+            "LetterGrade": "BA",
+            "Course": "TRD121"
+        },
+        {
+            "intGrade": 66,
+            "LetterGrade": "CC",
+            "Course": "ATA122"
+        },
+        {
+            "intGrade": 74,
+            "LetterGrade": "CC",
+            "Course": "MATH1002"
+        },
+        {
+            "intGrade": 74,
+            "LetterGrade": "CC",
+            "Course": "MATH2256"
+        },
+        {
+            "intGrade": 67,
+            "LetterGrade": "CC",
+            "Course": "PHYS1102"
+        },
+        {
+            "intGrade": 67,
+            "LetterGrade": "CC",
+            "Course": "PHYS1104"
+        },
+        {
+            "intGrade": 95,
+            "LetterGrade": "AA",
+            "Course": "TRD122"
+        },
+        {
+            "intGrade": 57,
+            "LetterGrade": "DC",
+            "Course": "CAS1010"
+        }
+    ],
+    "StudentName": "İSMAİL KUTLUYURDU",
+    "CompletedCredits": 37,
+    "StudentId": "150120057"
+}

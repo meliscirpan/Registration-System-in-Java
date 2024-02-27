@@ -1,0 +1,106 @@
+{
+    "Current Courses": [
+        "CSE2023",
+        "CSE2225",
+        "ECON2004",
+        "EE2031",
+        "MATH2055",
+        "MATH2059"
+    ],
+    "Execution Trace": [
+        "Current Semester Courses: ",
+        "CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, ",
+        "(0 NTE), (0 TE), (0 FTE), ",
+        "",
+        "",
+        "Current Courses: ",
+        "CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, "
+    ],
+    "AdvisorName": "MUSTAFA ULAŞ GİRAY",
+    "SemesterNumber": 3,
+    "Past Courses": [
+        {
+            "intGrade": 50,
+            "LetterGrade": "DD",
+            "Course": "ATA121"
+        },
+        {
+            "intGrade": 66,
+            "LetterGrade": "CC",
+            "Course": "MBG1201"
+        },
+        {
+            "intGrade": 100,
+            "LetterGrade": "AA",
+            "Course": "CSE1200"
+        },
+        {
+            "intGrade": 99,
+            "LetterGrade": "AA",
+            "Course": "CSE1241"
+        },
+        {
+            "intGrade": 58,
+            "LetterGrade": "DC",
+            "Course": "MATH1001"
+        },
+        {
+            "intGrade": 64,
+            "LetterGrade": "DC",
+            "Course": "PHYS1101"
+        },
+        {
+            "intGrade": 80,
+            "LetterGrade": "BB",
+            "Course": "PHYS1103"
+        },
+        {
+            "intGrade": 56,
+            "LetterGrade": "DC",
+            "Course": "TRD121"
+        },
+        {
+            "intGrade": 22,
+            "LetterGrade": "FF",
+            "Course": "ATA122"
+        },
+        {
+            "intGrade": 80,
+            "LetterGrade": "BB",
+            "Course": "CSE1242"
+        },
+        {
+            "intGrade": 52,
+            "LetterGrade": "DD",
+            "Course": "MATH1002"
+        },
+        {
+            "intGrade": 76,
+            "LetterGrade": "CB",
+            "Course": "MATH2256"
+        },
+        {
+            "intGrade": 63,
+            "LetterGrade": "DC",
+            "Course": "PHYS1102"
+        },
+        {
+            "intGrade": 100,
+            "LetterGrade": "AA",
+            "Course": "PHYS1104"
+        },
+        {
+            "intGrade": 76,
+            "LetterGrade": "CB",
+            "Course": "TRD122"
+        },
+        {
+            "intGrade": 91,
+            "LetterGrade": "AA",
+            "Course": "OB3043"
+        }
+    ],
+    "StudentName": "BERFİN GÜVENÇ",
+    "CompletedCredits": 59,
+    "StudentId": "150120037"
+}

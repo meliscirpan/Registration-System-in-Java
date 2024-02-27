@@ -1,0 +1,108 @@
+{
+    "Current Courses": [
+        "MATH1001",
+        "PHYS1101",
+        "CSE2023",
+        "ECON2004",
+        "EE2031",
+        "MATH2055"
+    ],
+    "Execution Trace": [
+        "Current Semester Courses: ",
+        "MATH1001, PHYS1101, CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, ",
+        "(0 NTE), (0 TE), (0 FTE), ",
+        "",
+        "Advisor didn't approve CSE2225 because of more than one hour collision with -> PHYS1101 MATH1001  in schedule",
+        "The system didn't allow MATH2059 because student failed prerequisites -> MATH1001 ",
+        "",
+        "Current Courses: ",
+        "MATH1001, PHYS1101, CSE2023, ECON2004, EE2031, MATH2055, "
+    ],
+    "AdvisorName": "DERYA YENİN",
+    "SemesterNumber": 3,
+    "Past Courses": [
+        {
+            "intGrade": 70,
+            "LetterGrade": "CC",
+            "Course": "ATA121"
+        },
+        {
+            "intGrade": 64,
+            "LetterGrade": "DC",
+            "Course": "MBG1201"
+        },
+        {
+            "intGrade": 60,
+            "LetterGrade": "DC",
+            "Course": "CSE1200"
+        },
+        {
+            "intGrade": 97,
+            "LetterGrade": "AA",
+            "Course": "CSE1241"
+        },
+        {
+            "intGrade": 32,
+            "LetterGrade": "FF",
+            "Course": "MATH1001"
+        },
+        {
+            "intGrade": 22,
+            "LetterGrade": "FF",
+            "Course": "PHYS1101"
+        },
+        {
+            "intGrade": 88,
+            "LetterGrade": "BA",
+            "Course": "PHYS1103"
+        },
+        {
+            "intGrade": 96,
+            "LetterGrade": "AA",
+            "Course": "TRD121"
+        },
+        {
+            "intGrade": 90,
+            "LetterGrade": "AA",
+            "Course": "ATA122"
+        },
+        {
+            "intGrade": 68,
+            "LetterGrade": "CC",
+            "Course": "CSE1242"
+        },
+        {
+            "intGrade": 23,
+            "LetterGrade": "FF",
+            "Course": "MATH1002"
+        },
+        {
+            "intGrade": 1,
+            "LetterGrade": "FF",
+            "Course": "MATH2256"
+        },
+        {
+            "intGrade": 91,
+            "LetterGrade": "AA",
+            "Course": "PHYS1102"
+        },
+        {
+            "intGrade": 4,
+            "LetterGrade": "FF",
+            "Course": "PHYS1104"
+        },
+        {
+            "intGrade": 43,
+            "LetterGrade": "FF",
+            "Course": "TRD122"
+        },
+        {
+            "intGrade": 76,
+            "LetterGrade": "CB",
+            "Course": "YDI1004"
+        }
+    ],
+    "StudentName": "HASAN ÖZTÜRK",
+    "CompletedCredits": 36,
+    "StudentId": "150120014"
+}

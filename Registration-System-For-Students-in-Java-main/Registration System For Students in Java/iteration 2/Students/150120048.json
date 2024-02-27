@@ -1,0 +1,107 @@
+{
+    "Current Courses": [
+        "MATH1001",
+        "CSE2023",
+        "CSE2225",
+        "ECON2004",
+        "EE2031",
+        "MATH2055"
+    ],
+    "Execution Trace": [
+        "Current Semester Courses: ",
+        "MATH1001, CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, ",
+        "(0 NTE), (0 TE), (0 FTE), ",
+        "",
+        "The system didn't allow MATH2059 because student failed prerequisites -> MATH1001 ",
+        "",
+        "Current Courses: ",
+        "MATH1001, CSE2023, CSE2225, ECON2004, EE2031, MATH2055, "
+    ],
+    "AdvisorName": "ŞERAFETTİN KOCABAŞ",
+    "SemesterNumber": 3,
+    "Past Courses": [
+        {
+            "intGrade": 69,
+            "LetterGrade": "CC",
+            "Course": "ATA121"
+        },
+        {
+            "intGrade": 82,
+            "LetterGrade": "BB",
+            "Course": "MBG1201"
+        },
+        {
+            "intGrade": 55,
+            "LetterGrade": "DC",
+            "Course": "CSE1200"
+        },
+        {
+            "intGrade": 65,
+            "LetterGrade": "CC",
+            "Course": "CSE1241"
+        },
+        {
+            "intGrade": 3,
+            "LetterGrade": "FF",
+            "Course": "MATH1001"
+        },
+        {
+            "intGrade": 67,
+            "LetterGrade": "CC",
+            "Course": "PHYS1101"
+        },
+        {
+            "intGrade": 78,
+            "LetterGrade": "CB",
+            "Course": "PHYS1103"
+        },
+        {
+            "intGrade": 61,
+            "LetterGrade": "DC",
+            "Course": "TRD121"
+        },
+        {
+            "intGrade": 82,
+            "LetterGrade": "BB",
+            "Course": "ATA122"
+        },
+        {
+            "intGrade": 93,
+            "LetterGrade": "AA",
+            "Course": "CSE1242"
+        },
+        {
+            "intGrade": 100,
+            "LetterGrade": "AA",
+            "Course": "MATH1002"
+        },
+        {
+            "intGrade": 78,
+            "LetterGrade": "CB",
+            "Course": "MATH2256"
+        },
+        {
+            "intGrade": 52,
+            "LetterGrade": "DD",
+            "Course": "PHYS1102"
+        },
+        {
+            "intGrade": 74,
+            "LetterGrade": "CC",
+            "Course": "PHYS1104"
+        },
+        {
+            "intGrade": 98,
+            "LetterGrade": "AA",
+            "Course": "TRD122"
+        },
+        {
+            "intGrade": 72,
+            "LetterGrade": "CC",
+            "Course": "NTE1012"
+        }
+    ],
+    "StudentName": "ALİ TUĞCUGİL",
+    "CompletedCredits": 55,
+    "StudentId": "150120048"
+}

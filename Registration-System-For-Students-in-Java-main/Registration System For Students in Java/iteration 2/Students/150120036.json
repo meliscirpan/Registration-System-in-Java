@@ -1,0 +1,107 @@
+{
+    "Current Courses": [
+        "TRD121",
+        "CSE2023",
+        "CSE2225",
+        "ECON2004",
+        "EE2031",
+        "MATH2055",
+        "MATH2059"
+    ],
+    "Execution Trace": [
+        "Current Semester Courses: ",
+        "TRD121, CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, ",
+        "(0 NTE), (0 TE), (0 FTE), ",
+        "",
+        "",
+        "Current Courses: ",
+        "TRD121, CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, "
+    ],
+    "AdvisorName": "ŞERAFETTİN KOCABAŞ",
+    "SemesterNumber": 3,
+    "Past Courses": [
+        {
+            "intGrade": 92,
+            "LetterGrade": "AA",
+            "Course": "ATA121"
+        },
+        {
+            "intGrade": 89,
+            "LetterGrade": "BA",
+            "Course": "MBG1201"
+        },
+        {
+            "intGrade": 51,
+            "LetterGrade": "DD",
+            "Course": "CSE1200"
+        },
+        {
+            "intGrade": 68,
+            "LetterGrade": "CC",
+            "Course": "CSE1241"
+        },
+        {
+            "intGrade": 81,
+            "LetterGrade": "BB",
+            "Course": "MATH1001"
+        },
+        {
+            "intGrade": 87,
+            "LetterGrade": "BA",
+            "Course": "PHYS1101"
+        },
+        {
+            "intGrade": 62,
+            "LetterGrade": "DC",
+            "Course": "PHYS1103"
+        },
+        {
+            "intGrade": 43,
+            "LetterGrade": "FF",
+            "Course": "TRD121"
+        },
+        {
+            "intGrade": 56,
+            "LetterGrade": "DC",
+            "Course": "ATA122"
+        },
+        {
+            "intGrade": 50,
+            "LetterGrade": "DD",
+            "Course": "CSE1242"
+        },
+        {
+            "intGrade": 60,
+            "LetterGrade": "DC",
+            "Course": "MATH1002"
+        },
+        {
+            "intGrade": 83,
+            "LetterGrade": "BB",
+            "Course": "MATH2256"
+        },
+        {
+            "intGrade": 75,
+            "LetterGrade": "CB",
+            "Course": "PHYS1102"
+        },
+        {
+            "intGrade": 41,
+            "LetterGrade": "FF",
+            "Course": "PHYS1104"
+        },
+        {
+            "intGrade": 94,
+            "LetterGrade": "AA",
+            "Course": "TRD122"
+        },
+        {
+            "intGrade": 59,
+            "LetterGrade": "DC",
+            "Course": "CAS1010"
+        }
+    ],
+    "StudentName": "EBRU PEKGÖZ",
+    "CompletedCredits": 57,
+    "StudentId": "150120036"
+}

@@ -1,0 +1,104 @@
+{
+    "Current Courses": [
+        "CSE1241",
+        "PHYS1101",
+        "TRD121",
+        "CSE2023",
+        "ECON2004",
+        "EE2031",
+        "MATH2055"
+    ],
+    "Execution Trace": [
+        "Current Semester Courses: ",
+        "CSE1241, PHYS1101, TRD121, CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, ",
+        "(0 NTE), (0 TE), (0 FTE), ",
+        "",
+        "The system didn't allow CSE2225 because student failed prerequisites -> CSE1242 ",
+        "Advisor didn't approve MATH2059 because of more than one hour collision with -> CSE1241 PHYS1101  in schedule",
+        "",
+        "Current Courses: ",
+        "CSE1241, PHYS1101, TRD121, CSE2023, ECON2004, EE2031, MATH2055, "
+    ],
+    "AdvisorName": "ÜZEYİR AKIN",
+    "SemesterNumber": 3,
+    "Past Courses": [
+        {
+            "intGrade": 80,
+            "LetterGrade": "BB",
+            "Course": "ATA121"
+        },
+        {
+            "intGrade": 95,
+            "LetterGrade": "AA",
+            "Course": "MBG1201"
+        },
+        {
+            "intGrade": 59,
+            "LetterGrade": "DC",
+            "Course": "CSE1200"
+        },
+        {
+            "intGrade": 24,
+            "LetterGrade": "FF",
+            "Course": "CSE1241"
+        },
+        {
+            "intGrade": 61,
+            "LetterGrade": "DC",
+            "Course": "MATH1001"
+        },
+        {
+            "intGrade": 3,
+            "LetterGrade": "FF",
+            "Course": "PHYS1101"
+        },
+        {
+            "intGrade": 50,
+            "LetterGrade": "DD",
+            "Course": "PHYS1103"
+        },
+        {
+            "intGrade": 23,
+            "LetterGrade": "FF",
+            "Course": "TRD121"
+        },
+        {
+            "intGrade": 5,
+            "LetterGrade": "FF",
+            "Course": "ATA122"
+        },
+        {
+            "intGrade": 77,
+            "LetterGrade": "CB",
+            "Course": "MATH1002"
+        },
+        {
+            "intGrade": 45,
+            "LetterGrade": "FD",
+            "Course": "MATH2256"
+        },
+        {
+            "intGrade": 60,
+            "LetterGrade": "DC",
+            "Course": "PHYS1102"
+        },
+        {
+            "intGrade": 86,
+            "LetterGrade": "BA",
+            "Course": "PHYS1104"
+        },
+        {
+            "intGrade": 86,
+            "LetterGrade": "BA",
+            "Course": "TRD122"
+        },
+        {
+            "intGrade": 65,
+            "LetterGrade": "CC",
+            "Course": "IKT1054"
+        }
+    ],
+    "StudentName": "PINAR AKAR",
+    "CompletedCredits": 36,
+    "StudentId": "150120021"
+}

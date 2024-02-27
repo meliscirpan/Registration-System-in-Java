@@ -1,0 +1,203 @@
+{
+  "PassProbability": "0.5",
+  "Quota": "5",
+  "Advisors": "1",
+  "Students": "10",
+  "CurrentSemester": "spring",
+  "Courses": [
+      {
+        "courseCode": "ATA121",
+        "courseName": "Atatürk İlkeleri ve İnkılap Tarihi I",
+        "semester": "fall",
+        "courseType": "mandatory",
+        "credits": "2",
+        "theoretical": "2",
+        "practical": "0",
+        "year": "1",
+        "requiredCredits": "0",
+        "preRequisites": ""
+      },
+      {
+        "courseCode": "MBG1201",
+        "courseName": "Introduction to Modern Biology",
+        "semester": "fall",
+        "courseType": "mandatory",
+        "credits": "5",
+        "theoretical": "2",
+        "practical": "0",
+        "year": "1",
+        "requiredCredits": "0",
+        "preRequisites": ""
+      },
+      {
+        "courseCode": "CSE1200",
+        "courseName": "Introduction to Computer Engineering",
+        "semester": "fall",
+        "courseType": "mandatory",
+        "credits": "4",
+        "theoretical": "3",
+        "practical": "0",
+        "year": "1",
+        "requiredCredits": "0",
+        "preRequisites": ""
+      },
+      {
+        "courseCode": "CSE1241",
+        "courseName": "Computer Programming I",
+        "semester": "fall",
+        "courseType": "mandatory",
+        "credits": "6",
+        "theoretical": "3",
+        "practical": "2",
+        "year": "1",
+        "requiredCredits": "0",
+        "preRequisites": ""
+      },
+      {
+        "courseCode": "MATH1001",
+        "courseName": "Calculus I",
+        "semester": "both",
+        "courseType": "mandatory",
+        "credits": "6",
+        "theoretical": "4",
+        "practical": "0",
+        "year": "1",
+        "requiredCredits": "0",
+        "preRequisites": ""
+      },
+      {
+        "courseCode": "PHYS1101",
+        "courseName": "Physics I",
+        "semester": "both",
+        "courseType": "mandatory",
+        "credits": "4",
+        "theoretical": "3",
+        "practical": "0",
+        "year": "1",
+        "requiredCredits": "0",
+        "preRequisites": ""
+      },
+      {
+        "courseCode": "PHYS1103",
+        "courseName": "Physics Lab I",
+        "semester": "fall",
+        "courseType": "mandatory",
+        "credits": "2",
+        "theoretical": "0",
+        "practical": "2",
+        "year": "1",
+        "requiredCredits": "0",
+        "preRequisites": ""
+      },
+      {
+        "courseCode": "TRD121",
+        "courseName": "Türk Dili I",
+        "semester": "fall",
+        "courseType": "mandatory",
+        "credits": "2",
+        "theoretical": "2",
+        "practical": "0",
+        "year": "1",
+        "requiredCredits": "0",
+        "preRequisites": ""
+      },
+      {
+        "courseCode": "ATA122",
+        "courseName": "Atatürk İlkeleri ve İnkılap Tarihi II",
+        "semester": "spring",
+        "courseType": "mandatory",
+        "credits": "2",
+        "theoretical": "2",
+        "practical": "0",
+        "year": "1",
+        "requiredCredits": "0",
+        "preRequisites": ""
+      },
+      {
+        "courseCode": "CSE1242",
+        "courseName": "Computer Programming II",
+        "semester": "spring",
+        "courseType": "mandatory",
+        "credits": "6",
+        "theoretical": "3",
+        "practical": "2",
+        "year": "1",
+        "requiredCredits": "0",
+        "preRequisites": "CSE1241"
+
+      },
+      {
+        "courseCode": "MATH1002",
+        "courseName": "Calculus II",
+        "semester": "spring",
+        "courseType": "mandatory",
+        "credits": "6",
+        "theoretical": "4",
+        "practical": "0",
+        "year": "1",
+        "requiredCredits": "0",
+        "preRequisites": "MATH1001"
+      },
+      {
+        "courseCode": "MATH2256",
+        "courseName": "Linear Algebra for Computer Engineering",
+        "semester": "spring",
+        "courseType": "mandatory",
+        "credits": "5",
+        "theoretical": "3",
+        "practical": "0",
+        "year": "1",
+        "requiredCredits": "0",
+        "preRequisites": ""
+      },
+      {
+        "courseCode": "PHYS1102",
+        "courseName": "Physics II",
+        "semester": "spring",
+        "courseType": "mandatory",
+        "credits": "4",
+        "theoretical": "3",
+        "practical": "0",
+        "year": "1",
+        "requiredCredits": "0",
+        "preRequisites": ""
+      },
+      {
+        "courseCode": "PHYS1104",
+        "courseName": "Physics Lab II",
+        "semester": "spring",
+        "courseType": "mandatory",
+        "credits": "2",
+        "theoretical": "0",
+        "practical": "2",
+        "year": "1",
+        "requiredCredits": "0",
+        "preRequisites": ""
+      },
+      {
+        "courseCode": "TRD122",
+        "courseName": "Türk Dili II",
+        "semester": "spring",
+        "courseType": "mandatory",
+        "credits": "2",
+        "theoretical": "2",
+        "practical": "0",
+        "year": "1",
+        "requiredCredits": "0",
+        "preRequisites": ""
+      },
+      {
+        "courseCode": "YDA1001",
+        "courseName": "German for Beginners",
+        "semester": "spring",
+        "courseType": "mandatory",
+        "credits": "3",
+        "theoretical": "2",
+        "practical": "0",
+        "year": "1",
+        "requiredCredits": "0",
+        "preRequisites": ""
+      }
+    ]
+  }
+

@@ -1,0 +1,75 @@
+{
+    "Current Courses": [
+        "ATA121",
+        "MATH1001",
+        "PHYS1101",
+        "TRD121",
+        "CSE2023",
+        "ECON2004",
+        "MATH2055"
+    ],
+    "Execution Trace": [
+        "Current Semester Courses: ",
+        "ATA121, MATH1001, PHYS1101, TRD121, CSE2023, CSE2225, ECON2004, EE2031, MATH2055, MATH2059, ",
+        "(0 NTE), (0 TE), (0 FTE), ",
+        "",
+        "The system didn't allow CSE2225 because student failed prerequisites -> CSE1242 ",
+        "The system didn't allow EE2031 because student failed prerequisites -> PHYS1102 ",
+        "The system didn't allow MATH2059 because student failed prerequisites -> MATH1001 ",
+        "",
+        "Current Courses: ",
+        "ATA121, MATH1001, PHYS1101, TRD121, CSE2023, ECON2004, MATH2055, "
+    ],
+    "AdvisorName": "HASAN AYVAZ",
+    "SemesterNumber": 3,
+    "Past Courses": [
+        {
+            "intGrade": 2,
+            "LetterGrade": "FF",
+            "Course": "ATA121"
+        },
+        {
+            "intGrade": 68,
+            "LetterGrade": "CC",
+            "Course": "MBG1201"
+        },
+        {
+            "intGrade": 71,
+            "LetterGrade": "CC",
+            "Course": "CSE1200"
+        },
+        {
+            "intGrade": 86,
+            "LetterGrade": "BA",
+            "Course": "CSE1241"
+        },
+        {
+            "intGrade": 3,
+            "LetterGrade": "FF",
+            "Course": "MATH1001"
+        },
+        {
+            "intGrade": 13,
+            "LetterGrade": "FF",
+            "Course": "PHYS1101"
+        },
+        {
+            "intGrade": 76,
+            "LetterGrade": "CB",
+            "Course": "PHYS1103"
+        },
+        {
+            "intGrade": 27,
+            "LetterGrade": "FF",
+            "Course": "TRD121"
+        },
+        {
+            "intGrade": 93,
+            "LetterGrade": "AA",
+            "Course": "YDIS1002"
+        }
+    ],
+    "StudentName": "KADİR BAŞKAN",
+    "CompletedCredits": 20,
+    "StudentId": "150120073"
+}
